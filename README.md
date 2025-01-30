@@ -1,4 +1,4 @@
-git clone https://github.com/Not-D4rkCipherX/Layer-Edge.git
+git clone https://github.com/saifkhan250/layeredge.git
 
 cd layeredge
 
